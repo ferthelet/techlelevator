@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2024-03-17T19:22:37.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="KjDONT__jsjBy9utlPnB" version="24.0.7" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="1184" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CMYn4JAJIOTwwootJHOb-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-55" target="CMYn4JAJIOTwwootJHOb-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-55" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-56" target="CMYn4JAJIOTwwootJHOb-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-56" value="Ask for the Customer ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-57" target="CMYn4JAJIOTwwootJHOb-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-69" value="Yes" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="CMYn4JAJIOTwwootJHOb-63" vertex="1" connectable="0">
+          <mxGeometry x="-0.4783" relative="1" as="geometry">
+            <mxPoint x="-5" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMYn4JAJIOTwwootJHOb-57" target="CMYn4JAJIOTwwootJHOb-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-86" value="No" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="CMYn4JAJIOTwwootJHOb-80" vertex="1" connectable="0">
+          <mxGeometry x="-0.7784" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-57" value="Customer ID Age&lt;div&gt;greater than&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;25 years?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-62" target="CMYn4JAJIOTwwootJHOb-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-62" value="Ask for the Customer Insurance Card" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-66" target="CMYn4JAJIOTwwootJHOb-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-82" value="Yes" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="CMYn4JAJIOTwwootJHOb-81" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-66" target="CMYn4JAJIOTwwootJHOb-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-88" value="No" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="CMYn4JAJIOTwwootJHOb-83" vertex="1" connectable="0">
+          <mxGeometry x="-0.2245" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-66" value="Insurance still valid?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="240" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-71" target="CMYn4JAJIOTwwootJHOb-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-71" value="Proceed with the rental" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-72" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="394" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CMYn4JAJIOTwwootJHOb-79" target="CMYn4JAJIOTwwootJHOb-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMYn4JAJIOTwwootJHOb-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="460" y="399" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
